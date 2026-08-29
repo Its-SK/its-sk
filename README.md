@@ -1,6 +1,6 @@
-# SK SAMIMJUL ISLAM
+<img src="https://sasasollutions.tech/profile.jpg" alt="SK Samimjul Islam" width="120" align="right">
 
-![SK Samimjul Islam Photo](https://sasasollutions.tech/profile.jpg)
+# SK SAMIMJUL ISLAM
 
 📍 Mysora, Panskura, Purba Medinipur, 721139  
 📱 8768083269 | ✉️ samimjulislam622@gmail.com | [🔗 GitHub](your_github_link_here)
