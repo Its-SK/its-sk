@@ -1,4 +1,4 @@
-<img src="https://sasasollutions.tech/profile.jpg" alt="SK Samimjul Islam" width="120" align="right">
+
 
 # SK SAMIMJUL ISLAM
 
