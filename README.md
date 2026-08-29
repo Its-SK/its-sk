@@ -1,9 +1,9 @@
 # SK SAMIMJUL ISLAM
 
+![SK Samimjul Islam Photo](https://sasasollutions.tech/profile.jpg)
 
-(https://sasasollutions.tech/profile.jpg)
 📍 Mysora, Panskura, Purba Medinipur, 721139  
-📱 8768083269 | ✉️ samimjulislam622@gmail.com | 🔗 GitHub
+📱 8768083269 | ✉️ samimjulislam622@gmail.com | [🔗 GitHub](your_github_link_here)
 
 A motivated B.Tech Information Technology graduate and software enthusiast with core expertise in Python, Java, and modern AI technologies. Known for the ability to rapidly master new frameworks and languages. Having built a strong foundation through hands-on projects ranging from robust desktop tools to web-based management systems, I am now seeking an entry-level software development role to translate my practical experience into high-impact professional solutions.
 
